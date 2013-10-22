@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>AFAE49A0-2C64-4C20-AEDD-103F2E71D4DC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>THTableViewCell</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F283B7DC-49CB-490C-9114-5FF3C368D5FA</key>
+		<string>https://github.com/tbass134/THTableViewCell.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>THTableViewCell/THTableViewCell.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F283B7DC-49CB-490C-9114-5FF3C368D5FA</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tbass134/THTableViewCell.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F283B7DC-49CB-490C-9114-5FF3C368D5FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F283B7DC-49CB-490C-9114-5FF3C368D5FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>THTableViewCell</string>
+		</dict>
+	</array>
+</dict>
+</plist>
